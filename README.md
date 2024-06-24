@@ -4,8 +4,8 @@
 This project implements a chatbot designed to support caregivers of Alzheimer's patients. The chatbot leverages a Large Language Model (LLM) for natural language processing, allowing caregivers to ask questions and seek advice related to caregiving.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/your-repository.git
-cd your-repository
+1. Clone the repository: git clone https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot/
+cd https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot/edit/main/README.md
 2. Install dependencies: pip install -r requirements.txt
 3. Run the application: streamlit run app.py
 
