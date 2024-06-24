@@ -10,8 +10,12 @@ This project implements a chatbot designed to support caregivers of Alzheimer's 
    git clone https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot.git
    cd Alzheimer-s-Caregiver-Support-Chatbot
 
-2. Install dependencies: pip install -r requirements.txt
-3. Run the application: streamlit run app.py
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the application:
+   ```bash
+   streamlit run app.py
 
 
 ## Usage
