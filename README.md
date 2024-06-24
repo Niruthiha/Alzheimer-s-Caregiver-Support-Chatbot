@@ -32,7 +32,7 @@ To ensure the chatbot performs well:
 
 ## Video Walkthrough
 Watch a demonstration of the chatbot's features in action:
-- [Link to YouTube Video](https://youtu.be/kfkpyb74ji4))
+- [Link to YouTube Video](https://youtu.be/kfkpyb74ji4)
 
 ## Credits
 - **Streamlit**: Used for building the web application UI.
