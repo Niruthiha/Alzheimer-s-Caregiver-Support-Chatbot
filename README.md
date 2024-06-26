@@ -4,6 +4,16 @@
 ## Description
 This project implements a chatbot designed to support caregivers of Alzheimer's patients. The chatbot leverages a Large Language Model (LLM) for natural language processing, allowing caregivers to ask questions and seek advice related to caregiving.
 
+🤖 Our Alzheimer's Caregiver Support Chatbot is powered by advanced Natural Language Processing (NLP) technology, specifically the Llama3 model. 🧠
+
+🔍 Model Used: Llama3 is trained on a diverse dataset encompassing medical literature, caregiving guidelines, and more, enabling it to understand and generate human-like responses on a wide range of topics, including Alzheimer's caregiving.
+
+🎯 Custom Prompting: Tailored prompts direct our chatbot to provide compassionate and practical advice, structured to act as an expert in Alzheimer's caregiving.
+
+💬 Dynamic Response Generation: Users can input questions or choose from pre-defined queries, with responses generated based on the model's training and prompt instructions—designed to be informative, empathetic, and helpful.
+
+📚 Supplementary Resources: Beyond responses, our app provides links to trusted resources like the Alzheimer's Association and Family Caregiver Alliance, ensuring caregivers access comprehensive support and information.
+
 ## Installation
 1. Clone the repository:
    ```bash
