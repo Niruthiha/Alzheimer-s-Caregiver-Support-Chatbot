@@ -25,7 +25,17 @@ custom_prompt = st.text_area("Or ask a custom question or seek advice 🤝", hei
 # Combine selected pre-defined question with custom input if provided
 prompt = selected_question if not custom_prompt else custom_prompt
 
+st.markdown("""
+            ### Additional Resources
+            - [Alzheimer's Association](https://www.alz.org/): Comprehensive resources for caregivers and support.
+            - [Family Caregiver Alliance](https://www.caregiver.org/): Support and resources for caregivers of those with chronic, disabling health conditions.
+            - [National Institute on Aging](https://www.nia.nih.gov/health/caregiving): Information and resources for Alzheimer's and dementia caregiving.
+            - [Alzheimer's Foundation of America](https://www.alzfdn.org/): Support services and educational programs for caregivers.
+            """)
+
 if st.button("Prompt"):
     if prompt:
         with st.spinner("Generating ... "):
             st.write(llm.invoke(prompt, stop=['<|eot_id|>']))
+            # Adding additional resource links
+        
