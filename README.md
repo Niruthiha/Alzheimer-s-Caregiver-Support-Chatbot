@@ -66,5 +66,7 @@ Watch a demonstration of the chatbot's features in action:
 - Ensure you have Python and pip installed on your system.
 - This project is developed as an assignment for INFO7375.53087.202450 in the Summer Full 2024 Semester.
 - For any issues or questions, feel free to contact niruthiha2000@outlook.com
+[response_sample.pdf](https://github.com/user-attachments/files/15981637/response_sample.pdf)
+
 
 
