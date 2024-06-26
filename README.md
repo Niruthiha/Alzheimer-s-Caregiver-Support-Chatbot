@@ -14,6 +14,7 @@ This project implements a chatbot designed to support caregivers of Alzheimer's 
 
 📚 Supplementary Resources: Beyond responses, our app provides links to trusted resources like the Alzheimer's Association and Family Caregiver Alliance, ensuring caregivers access comprehensive support and information.
 
+![0_iYeyafgUdckW7uxd](https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot/assets/157150830/13c2a610-31f4-4821-9b0b-2dcc4cbd7bf8)
 
 ## Installation
 1. Clone the repository:
