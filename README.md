@@ -14,6 +14,7 @@ This project implements a chatbot designed to support caregivers of Alzheimer's 
 
 📚 Supplementary Resources: Beyond responses, our app provides links to trusted resources like the Alzheimer's Association and Family Caregiver Alliance, ensuring caregivers access comprehensive support and information.
 
+
 ## Installation
 1. Clone the repository:
    ```bash
