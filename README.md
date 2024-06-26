@@ -57,16 +57,16 @@ Watch a demonstration of the chatbot's features in action:
 - **OpenAI GPT-3 (Llama3 model)**: Integrated for natural language processing.
 - **Python 3**: Programming language used for development.
 
-## Additional Resources
-- Include any additional files or resources that might aid in understanding or testing the application.
+## Sample Responses
 
----
+
+---![Screenshot 2024-06-24 121915](https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot/assets/157150830/605eb007-fdc6-4999-846f-503649b38eb5)
+
 
 ### Note:
 - Ensure you have Python and pip installed on your system.
 - This project is developed as an assignment for INFO7375.53087.202450 in the Summer Full 2024 Semester.
 - For any issues or questions, feel free to contact niruthiha2000@outlook.com
-[response_sample.pdf](https://github.com/user-attachments/files/15981637/response_sample.pdf)
 
 
 
