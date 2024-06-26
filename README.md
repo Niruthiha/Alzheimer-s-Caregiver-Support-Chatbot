@@ -1,6 +1,12 @@
 
 # Alzheimer's Caregiver Support Chatbot 🤖 - https://alzheimer-caregiver-support-chatbot.streamlit.app/
 
+
+
+https://github.com/Niruthiha/Alzheimer-s-Caregiver-Support-Chatbot/assets/157150830/47fa6af4-c2fb-48c4-88c1-8c04fdf02623
+
+
+
 ## Description
 This project implements a chatbot designed to support caregivers of Alzheimer's patients. The chatbot leverages a Large Language Model (LLM) for natural language processing, allowing caregivers to ask questions and seek advice related to caregiving.
 
